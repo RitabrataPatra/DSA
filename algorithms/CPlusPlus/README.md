@@ -34,6 +34,7 @@
 - [Balanced Parenthesis](Arrays/balanced-parenthesis.cpp)
 - [Find special index](Arrays/specialindex2.cpp)
 - [Largest and smallest number in an array](Arrays/Largest-smallest.cpp)
+- [Buy and Sell a Stock atmost twice](Arrays/buy-sell-stock-atmost-twice.cpp)
 
 ## Dynamic-Programming
 
